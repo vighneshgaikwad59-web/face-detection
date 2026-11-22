@@ -161,8 +161,4 @@ Haar cascades are an older method. They work best with good light and a face loo
 
 ---
 
-## 👤 Author
 
-**Vighnesh Anand Gaikwad**: [@vighneshgaikwad59-web](https://github.com/vighneshgaikwad59-web)
-
-Licensed under the [MIT License](LICENSE).
